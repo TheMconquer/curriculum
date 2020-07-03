@@ -95,6 +95,7 @@ Submit a pull request with a link to your solution in this [file](https://github
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this list
+
 * [timmybytes' Solution (Easy)](https://github.com/timmybytes/Google_Homepage_Copy) - [View in Browser](https://timmybytes.github.io/Google_Homepage_Copy/)
 * [bardenHa's Solution (Easy)](https://github.com/bardenHa/google-homepage) - [View in Browser](https://bardenha.github.io/google-homepage/)
 * [JuanP-Alvarez's Solution (Easy)](https://github.com/JuanP-Alvarez/google-homepage) - [View in Browser](https://juanp-alvarez.github.io/google-homepage/)
@@ -3944,7 +3945,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Marko Markovitz's Solution (Easy)](https://github.com/markanjski/google-homepage) - [View in Browser](https://markanjski.github.io/google-homepage/)
 * [zeroo's Solution (Easy)](https://github.com/iamzeroo/google-homepage) - [View in Browser](https://iamzeroo.github.io/google-homepage/)
 </details>
-
+[TheMconquer's Solution (Easy)](https://github.com/TheMconquer/google-homepage)
 ### Additional Resources
 
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
